@@ -1,2 +1,3 @@
 # LibraryManagement
 
+"Dự án quản lý thư viện của nhóm A"
