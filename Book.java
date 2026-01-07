@@ -3,7 +3,7 @@ public class Book {
     private String title;
     private String author;
 
-    // Thêm Constructor để sau này dùng cho tiện
+    // Thêm Constructor để sau này dùng
     public Book(String id, String title, String author) {
         this.id = id;
         this.title = title;
